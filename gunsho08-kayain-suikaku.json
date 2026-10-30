@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/kayain-suikaku-utaawase",
  "yomi": "かやのいんすいかくうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（十番）",
+  "era": "長元8年（1035）5月16日",
+  "author": "主催 藤原頼通",
+  "desc": "関白藤原頼通が賀陽院の水閣で、法華三十講の聴聞の余興として催した十番の歌合。左右の方人と装束・饗応の次第を詳しく記した漢文の日記を伴い、後日の参詣のことまで記す。"
+ },
  "editions": [
   {
    "pid": "1879502",
